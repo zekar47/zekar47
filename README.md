@@ -1,5 +1,3 @@
-GNU's not Unix
+Most repos here will be out of date.
 
-GNU's not Linux
-
-GNU's not an artichoke
+Please check out [my codeberg profile](https://codeberg.org/zekar) (Migration in progress)
